@@ -489,7 +489,6 @@ button:focus {
 
 #block.unlock{
   cursor: pointer;
-  border:2px solid green
 }
 
 .block:before,
