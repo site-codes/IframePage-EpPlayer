@@ -459,6 +459,11 @@ button:focus {
   content:"Ocultar(B)"
  }
 
+ .block.unlock:hover:after{
+   content:"Revelar(B)"
+  }
+ 
+
 
 
 #pular:before {
