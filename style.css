@@ -598,7 +598,7 @@ button:focus {
 }
 .endp h2 {
   font-size: 1em;
-  color:white;
+  color:white!important;
 }
 
 .total-time {
