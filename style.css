@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Pathway+Extreme:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap');
 
-body{
-    margin:0;
-  background: black
-}
 
 button:focus {
   outline: none;
@@ -12,6 +8,7 @@ button:focus {
 .video-container {
   width: 100%;
   padding-top:56.25%;
+  max-height:600px;
   position: relative;
   color:white;
   margin: 0;
