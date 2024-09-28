@@ -15,6 +15,18 @@ button:focus {
   overflow: hidden;
   user-select: none;
 }
+@media screen and (min-width:700px){
+    .video-container{
+        padding:0;
+        height:600px
+    }
+}
+@media screen and (min-width:1100px){
+    .video-container{
+        height:700px
+    }
+}
+
 #leftdd,
 #rightdd{
   background: transparent;
@@ -831,10 +843,7 @@ button:focus {
   
   
 @media (max-width: 1100px){
-  
-.video-container {
-    max-height:240px;
-  }
+
 .video-container.leftt:after,
 .video-container.rightt:after {
   font-size: 20px;
